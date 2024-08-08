@@ -29,3 +29,5 @@
 
 # Emacs save files
 *~
+/.vs
+/out/build/x64-Debug
